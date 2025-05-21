@@ -112,3 +112,8 @@ The four plots that you will need to construct are shown below.
 
 ![plot of chunk unnamed-chunk-5](figure/unnamed-chunk-5.png) 
 
+## Assignment
+
+The eight files in the folder are, respectively, the R code and the resulting 
+image for each plot.
+
